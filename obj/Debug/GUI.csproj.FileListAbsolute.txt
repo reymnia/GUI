@@ -1,0 +1,9 @@
+D:\workspace\VisualStudioProjects\GUI\GUI\bin\Debug\GUI.exe.config
+D:\workspace\VisualStudioProjects\GUI\GUI\bin\Debug\GUI.exe
+D:\workspace\VisualStudioProjects\GUI\GUI\bin\Debug\GUI.pdb
+D:\workspace\VisualStudioProjects\GUI\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+D:\workspace\VisualStudioProjects\GUI\GUI\obj\Debug\GUI.Form1.resources
+D:\workspace\VisualStudioProjects\GUI\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\workspace\VisualStudioProjects\GUI\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+D:\workspace\VisualStudioProjects\GUI\GUI\obj\Debug\GUI.exe
+D:\workspace\VisualStudioProjects\GUI\GUI\obj\Debug\GUI.pdb
